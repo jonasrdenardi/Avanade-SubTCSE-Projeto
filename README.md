@@ -6,3 +6,6 @@ Projeto criado durante o treinamento full stack
 
 ## Dia 02
 >Criação da Estrutura
+
+## Dia 03
+>Avanço na Estrutura
