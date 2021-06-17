@@ -9,3 +9,6 @@ Projeto criado durante o treinamento full stack
 
 ## Dia 03
 >Avanço na Estrutura
+
+## Dia 04
+>Criação Employee
