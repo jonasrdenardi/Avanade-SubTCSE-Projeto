@@ -11,7 +11,7 @@
             RoleName = roleName;
         }
 
-        public void AddRole(string roleName)
+        public EmployeeRole(string roleName)
         {
             RoleName = roleName;
         }
