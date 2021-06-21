@@ -12,3 +12,6 @@ Projeto criado durante o treinamento full stack
 
 ## Dia 04
 >Criação Employee
+
+## Dia 05
+>Criação Interfaces e Início AutoMapper
