@@ -15,3 +15,6 @@ Projeto criado durante o treinamento full stack
 
 ## Dia 05
 >Criação Interfaces e Início AutoMapper
+
+## Dia 05
+>Criação Employee e Início FluentValidator
